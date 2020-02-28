@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SOUNDING</string>
+    <string-array name="german_familienname">
+        <item>SBLL</item>
+        <item>SBLT</item>
+        <item>SSDL</item>
+        <item>SSDT</item>
+    </string-array>
+
+    <string-array name="german_produkname">
+        <item>E2</item>
+        <item>10005A</item>
+        <item>UFR (Reg)</item>
+        <item>E0S</item>
+        <item>E1</item>
+        <item>10005B</item>
+        <item>10005</item>
+        <item>10005 10K</item>
+        <item>UFR INO</item>
+    </string-array>
+
+    <string-array name="german_optrname">
+        <item>Agil</item>
+        <item>Saemuri</item>
+        <item>Habib</item>
+        <item>Sarofan</item>
+        <item>Rudiyanto</item>
+        <item>Rizal</item>
+    </string-array>
+
+</resources>
